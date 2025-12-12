@@ -9,4 +9,5 @@ in a base 10 system, the next place of a base 10 number is 10<sup>1</sup>, which
 second place of the number. So 10 actually represents 1 grouping of 10, and 0 groupings of 1. This countinues as you keep counting, with 10<sup>2</sup> representing 
 groupings of one hundred, and 10<sup>3</sup> representing groups of one thousand.</p>
 
-[Understanding Binary](/page2.md)
+[Page 2](/page2.md) <br>
+[Return Home](/README.md)
