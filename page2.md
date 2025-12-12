@@ -27,3 +27,7 @@ so we move to 2<sup>3</sup> which is 8 and the 4th place in a binary number, so 
 | 2<sup>6</sup>| 64 | 
 | 2<sup>7</sup>| 128  | 
 |2<sup>8</sup>| 256  |
+
+
+[Back to page 1](/page1.md) <br>
+[Return Home](/README.md)
